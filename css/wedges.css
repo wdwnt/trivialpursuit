@@ -13,19 +13,19 @@
     color: blue;
 }
 .wedge1 {
-    color: green;
+    color: rgb(255, 117, 190); /* pink */
 }
 .wedge2 {
-    color: rgb(246, 99, 51);
+    color: yellow;
 }
 .wedge3 {
-    color: rgb(255, 117, 190);
+    color: brown;
 }
 .wedge4 {
-    color: purple;
+    color: green;
 }
 .wedge5 {
-    color: yellow;
+    color: rgb(246, 99, 51); /* orange */
 }
 
 /*.wedge {

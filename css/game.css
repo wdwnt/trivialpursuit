@@ -1,5 +1,5 @@
 html, body{
-    background-color: #800000;
+    background-color: #2d9eea;
     margin: 0;
     padding: 0;
     height: 100%;
@@ -49,18 +49,18 @@ img#logo {
 }
 
 img#board {
-    width: 80%;
+    width: 70%;
     display: block;
     margin: 0 auto;
 }
 
-table#score-table {
+table#score-table, table#category-table {
     width: 92%;
     margin: 0 auto;
     text-align: center;
 }
 
-#score-table td, #score-table th {
+#score-table td, #score-table th, #category-table td, #category-table th {
     border: 4px solid black;
     padding: 10px 0px;
     height: 36px;
